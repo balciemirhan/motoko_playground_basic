@@ -1,6 +1,6 @@
 # motoko_playground_basic
-Internet Computer Project Building Workshop
-Canister ID: mexqz-aqaaa-aaaab-qabtq-cai
+### Internet Computer Project Building Workshop
+### Canister ID: mexqz-aqaaa-aaaab-qabtq-cai
 
 // importlar
 
